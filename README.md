@@ -20,9 +20,12 @@ I found it to be challenging using the long COUNTIF() functions in the "outcomes
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+There is an increase in theater campaigns in the late spring and early summer and a decrease in the winter. The May to July timeframe also sees an increase in the percentage of succesful campaigns compared to failed ones. 
 
 - What can you conclude about the Outcomes based on Goals?
+The general trend from the line graph is that the percentage of successful campaigns goes down as the goal gets larger.
 
 - What are some limitations of this dataset?
-
+A limitation of the data that I see is for larger campaigns. There isn't as much data as the price point gets higher. This limitation is an issue with the category that Louise is looking at.
 - What are some other possible tables and/or graphs that we could create?
+I think that instead of a line chart for the "outcomes based on goals" analysis, a stacked bar chart would work better. It would show the number of campaigns as well as the percentage better than the line chart.

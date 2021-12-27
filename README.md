@@ -10,14 +10,12 @@ The kickstarter project was done to analyze different fundraising campaigns. Lou
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
 To look at the outcomes based on launch date, I created a pivot table using the kickstarter data. I filtered the data to only use the theater category that Louise was looking at. The pivot table I created used months and outcomes to display the data. The values were a count of the outcomes that satisfy each constraint. I then created a line chart for the pivot table that showed the relationship between the launch date months and the number of campaigns of each outcome. 
 
+### Analysis of Outcomes Based on Goals
 The goal-based analysis used the COUNTIFS() function to pull data from the kickstarter data. The table created contained the number of successful, failed, and canceled campaigns for each goal step. Total projects were calculated in each goal step using the SUM() function. Using the total projects, I was able to calculate the percentages for successful, failed, and canceled campaigns. I created a line chart using that table to display the percentages for each goal step.
 
+### Challenges and Difficulties Encountered
 I found it to be challenging using the long COUNTIF() functions in the "outcomes based on goals" analysis. I had to go through those a few times to get the exact filter that I needed for each cell.
 ## Results
 
